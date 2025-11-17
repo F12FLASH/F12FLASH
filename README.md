@@ -179,7 +179,6 @@ The name **F12FLASH** isn't just a name. It represents the combination of **F12*
   <sub>⚡ **Fun Fact**: I can debug production issues while sleeping! Well... almost 😄</sub>
   
   <br/><br/>
-  <img src="https://hit.yhype.me/github/profile?user_id=F12FLASH" alt="GitHub Profile Hits">
   
 </div>
 
